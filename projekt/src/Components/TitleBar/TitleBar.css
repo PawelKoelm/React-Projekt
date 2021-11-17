@@ -1,0 +1,14 @@
+.welcome_bar{
+    position:fixed;
+    top:0;
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+}
+
+.welcome_text{
+    color: white;
+    padding-top: 32px;
+    text-align: center;
+    font-size: 18px;
+}
